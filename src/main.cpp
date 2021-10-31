@@ -5,7 +5,7 @@
 #define PIN        32 // On Trinket or Gemma, suggest changing this to 1
 #define PIN_2        33 // On Trinket or Gemma, suggest changing this to 1
 
-#define NUMPIXELS 37 // Popular NeoPixel ring size
+#define NUMPIXELS 60 // Popular NeoPixel ring size
 
 #define SCREEN_WIDTH 128 // OLED display width, in pixels
 #define SCREEN_HEIGHT 64 // OLED display height, in pixels
